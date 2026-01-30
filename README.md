@@ -3,6 +3,6 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.linkedin.com/in/anubhabmaiti/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/anubhabmaiti_/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anubhabmaiti/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/maitianubhab_)
