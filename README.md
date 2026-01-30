@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 SDE-L2 | Web & Data Science Explorer<br><br>🚀 Building: Scalable solutions at NIC<br>🏢 Payroll: Akiko Sherman Infotech Pvt. Ltd.<br><br>💡 Interested In Collaborating On:<br>Web Apps <br>• Modern Frontend <br>• Mobile Apps <br>• Data Science<br><br>📈 Currently Upskilling In:<br>Python • Data Science • Data Analysis • Visualization<br><br>🤝 Actively Seeking:<br>✔️ Clear Data Science roadmap<br>✔️ Real-world datasets<br>✔️ Hands-on, industry-level projects<br><br>💬 Let’s Talk About:<br>Frontend frameworks, clean project architecture & DS basics<br><br>🎮 Fun Side Quest:<br>Competitive gaming when the code compiles 😄
+👨‍💻 SDE-L2 | Web & Data Science Explorer<br><br>🚀 Building: Scalable solutions at NIC<br>🏢 Payroll: Akiko Sherman Infotech Pvt. Ltd.<br><br>💡 Interested In Collaborating On:<br>• Web Apps <br>• Modern Frontend <br>• Mobile Apps <br>• Data Science<br><br>📈 Currently Upskilling In:<br>• Python <br>• Data Science <br>• Data Analysis <br>• Visualization<br><br>🤝 Actively Seeking:<br>✔️ Clear Data Science roadmap<br>✔️ Real-world datasets<br>✔️ Hands-on, industry-level projects<br><br>💬 Let’s Talk About:<br>Frontend frameworks, clean project architecture & DS basics<br><br>🎮 Fun Side Quest:<br>Competitive gaming when the code compiles 😄
 
 
 ## 🌐 Socials:
